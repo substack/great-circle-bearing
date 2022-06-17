@@ -1,0 +1,12 @@
+{
+  "name": "great-circle-bearing",
+  "version": "1.0.0",
+  "description": "bearing in degrees for the initial course along a great circle for two lon,lat points",
+  "devDependencies": {
+    "tape": "^5.5.3"
+  },
+  "license": "bsd",
+  "scripts": {
+    "test": "tape test/*.js"
+  }
+}
